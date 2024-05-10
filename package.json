@@ -1,0 +1,23 @@
+{
+	"name": "express-swagger",
+	"version": "1.0.0",
+	"description": "Swagger UI with ExpressJS",
+	"main": "app.js",
+	"scripts": {
+		"start": "tsc && node dist/app.js"
+	},
+	"keywords": [
+		"express",
+		"typescript",
+		"swagger"
+	],
+	"author": "Minh Vương",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.19.2"
+	},
+	"devDependencies": {
+		"@types/express": "^4.17.21",
+		"typescript": "^5.4.5"
+	}
+}
