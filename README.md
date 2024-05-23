@@ -1,9 +1,9 @@
 # Express Swagger
 
-![GitHub contributors](https://img.shields.io/github/contributors/hadonis-testing/express-swagger)
-![GitHub top language](https://img.shields.io/github/languages/top/hadonis-testing/express-swagger)
-![GitHub repo size](https://img.shields.io/github/repo-size/hadonis-testing/express-swagger)
-![GitHub License](https://img.shields.io/github/license/hadonis-testing/express-swagger)
+![GitHub contributors](https://img.shields.io/github/contributors/hardingadonis/express-swagger)
+![GitHub top language](https://img.shields.io/github/languages/top/hardingadonis/express-swagger)
+![GitHub repo size](https://img.shields.io/github/repo-size/hardingadonis/express-swagger)
+![GitHub License](https://img.shields.io/github/license/hardingadonis/express-swagger)
 
 > Swagger UI with ExpressJS
 
@@ -20,7 +20,7 @@
 - Clone the repository
 
   ```bash
-  git clone https://github.com/hadonis-testing/express-swagger.git
+  git clone https://github.com/hardingadonis/express-swagger.git
   ```
 
 - Install dependencies
@@ -39,6 +39,6 @@
 
 ## Contributors
 
-<a href="https://github.com/hadonis-testing/express-swagger/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hadonis-testing/express-swagger" />
+<a href="https://github.com/hardingadonis/express-swagger/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hardingadonis/express-swagger" />
 </a>
